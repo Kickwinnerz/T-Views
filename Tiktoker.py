@@ -12,7 +12,7 @@ import re
 import os
 from rich.panel import Panel
 os.system('clear')
-def linex():print(Panel(f'''[bold Yellow]   
+print(Panel(f'''[bold Yellow]   
 ██████╗ ███████╗██╗   ██╗██╗
 ██╔══██╗██╔════╝██║   ██║██║
 ██║  ██║█████╗  ██║   ██║██║
