@@ -11,7 +11,15 @@ import time
 import re
 import os
 from rich.panel import Panel
-os.system('clear')
+from rich import print
+from rich import print_json
+from rich import pretty
+from rich.progress import track
+from rich.markdown import Markdown
+from rich.tree import Tree
+from rich.panel import Panel
+from rich.padding import Padding;import webbrowser;webbrowser.open('https://t.me/TT_py')
+
 print(Panel(f'''[bold Yellow]   
 ██████╗ ███████╗██╗   ██╗██╗
 ██╔══██╗██╔════╝██║   ██║██║
